@@ -54,7 +54,7 @@ function Contact() {
         <textarea className="u-full-width" placeholder="message…" name="message" defaultValue={message} id="exampleMessage" onBlur={handleChange}></textarea>
      
         <input className="button" type="submit" value="Submit"></input>
-        <p> or email:<a href="mailto: emailcodydiab@gmail.com">emailcodydiab@gmail.com</a></p>
+        <p> or email:<a className="link-btn"href="mailto: emailcodydiab@gmail.com">emailcodydiab@gmail.com</a></p>
       </form>
     )
 }

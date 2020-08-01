@@ -4,6 +4,7 @@ import About from './components/About'
 import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Resume from './components/Resume';
 
 import './styles/index.css';
 
@@ -12,7 +13,9 @@ function App() {
 
   const renderPage = () => {
     switch(currentPage) {
-      case 'Contact':
+      case 'Resume':
+        return <Resume/>
+     case 'Contact':
         return <Contact/>;
       case 'Projects':
         return <Projects/>;

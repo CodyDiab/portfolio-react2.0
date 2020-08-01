@@ -10,7 +10,7 @@ function About() {
            <div className="about-text">
             <h2>Cody Nabil Diab</h2>
             <p>
-             cody is a front end web developer with a base in design principles, leveraging logic and functionality to deliver a creative aesthetic along with a fluid user interface.
+             Cody is a front end web developer located in Texas. Working from a design background while leveraging logic and utility to deliver a unique aesthetic along with a fluid user interface.
            </p>
          </div>
       

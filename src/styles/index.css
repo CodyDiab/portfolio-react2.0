@@ -1004,6 +1004,18 @@ a {
   text-decoration: none;
 }
 
+.link-btn {
+  background-color: rgba(17, 15, 17, 0.616);
+  border-radius: 2%;
+  border-color: #472647;
+  font-size: large;
+}
+
+p {
+  display: block;
+  max-width: 100vh;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .logo {
     -webkit-animation: logo-spin infinite 20s linear;

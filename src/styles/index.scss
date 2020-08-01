@@ -47,6 +47,17 @@ a{
     color:white;
     text-decoration: none;
 }
+.link-btn{
+    background-color: rgba(17, 15, 17, 0.616);
+    border-radius: 2%;
+
+    border-color: rgb(71, 38, 71);
+    font-size: large;
+}
+p{
+    display: block;
+    max-width: 100vh;
+}
 @media (prefers-reduced-motion: no-preference) {
     .logo {
       animation:logo-spin infinite 20s linear;
