@@ -12,7 +12,7 @@ function Projects() {
                 <a href="https://stormy-scrubland-17368.herokuapp.com/" tagtet="_blank" rel="noopener noreferrer">
                 Visit Scatterbrain
                 </a>
-                <br></br>
+                <span>| |</span>
                 <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
                     GitHub Repo
                     </a>
@@ -24,8 +24,8 @@ function Projects() {
         <a href="https://codydiab.github.io/dm-emergency-paper-locator/" target="_blank" rel="noopener noreferrer">
            Visit Paper Locator
            </a>
-           <br></br>
-           <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
+           <span>| |</span>
+           <a href="https://github.com/CodyDiab/dm-emergency-paper-locator" tagtet="_blank" rel="noopener noreferrer">
                GitHub Repo
            </a>
         </div>
@@ -37,8 +37,8 @@ function Projects() {
             <a href="https://codydiab.github.io/IRIS-wapp/" tagtet="_blank" rel="noopener noreferrer">
              IRIS Weather
              </a>
-             <br></br>
-             <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
+             <span>| |</span>
+             <a href="https://github.com/CodyDiab/IRIS-wapp" tagtet="_blank" rel="noopener noreferrer">
                  GitHub Repo
              </a>
         </div>
@@ -49,8 +49,8 @@ function Projects() {
             <a href="https://codydiab.github.io/git-it-done/" tagtet="_blank" rel="noopener noreferrer">
             Git-It-Done
             </a>
-            <br></br>
-            <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
+            <span>| |</span>
+            <a href="https://github.com/CodyDiab/Get-with-IT" tagtet="_blank" rel="noopener noreferrer">
                 GitHub Repo
             </a>
         </div>
@@ -61,8 +61,8 @@ function Projects() {
            <a href="https://codydiab.github.io/Accessibility-Boost-Project/" target="_blank" rel="noopener noreferrer">
            Horiseon
            </a>
-           <br></br>
-           <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
+           <span>| |</span>
+           <a href="https://github.com/CodyDiab/Accessibility-Boost-Project" tagtet="_blank" rel="noopener noreferrer">
                GitHub Repo
            </a>
           </div>
@@ -73,8 +73,8 @@ function Projects() {
             <a href="https://codydiab.github.io/Work-Day-Scheduler/" tagtet="_blank" rel="noopener noreferrer">
             Work-Day-Scheduler
             </a>
-            <br></br>
-            <a href="https://github.com/CodyDiab/ScatterBrain" tagtet="_blank" rel="noopener noreferrer">
+            <span>| |</span>
+            <a href="https://github.com/CodyDiab/Work-Day-Scheduler" tagtet="_blank" rel="noopener noreferrer">
                 GitHub Repo
             </a>
         </div>
