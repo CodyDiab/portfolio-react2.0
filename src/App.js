@@ -1,21 +1,38 @@
-import React from 'react';
-// import About from './components/About'
+import React, {useState} from 'react';
+import Nav from './components/Nav'
+import About from './components/About'
 import Projects from './components/Projects';
-// import Contact from './components/Contact';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 import './styles/index.css';
 
 function App() {
+  const [ currentPage, handlePageChange] = useState('About')
+
+  const renderPage = () => {
+    switch(currentPage) {
+      case 'Contact':
+        return <Contact/>;
+      case 'Projects':
+        return <Projects/>;
+      case 'About' :
+        return <About/>;
+      default:
+        return <About/>
+    }
+  }
   return (
     <div >
       <header className="header " >
-        <h1>Here is the title, howdy yall</h1>
+      <img className='logo' src={require("./assets/logo-2.svg")} alt="logo"></img>
+        <Nav currentPage={currentPage} handlePageChange={handlePageChange}></Nav>
       </header>
       <div>
-         {/* <About></About> */}
+        {renderPage()}
+         {/* <About></About> 
          <Projects></Projects>
-         {/* <Contact></Contact> */}
+         <Contact></Contact> */}
          <Footer></Footer>
       </div>
      

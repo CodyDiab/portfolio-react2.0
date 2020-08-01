@@ -980,6 +980,8 @@ th {
   height: 20%;
   width: 20%;
   border-radius: 50%;
+  -webkit-filter: grayscale(90%);
+          filter: grayscale(90%);
 }
 
 .footer {
@@ -991,5 +993,43 @@ th {
           justify-content: center;
   -ms-flex-line-pack: end;
       align-content: flex-end;
+}
+
+.logo {
+  max-width: 80px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo {
+    -webkit-animation: logo-spin infinite 20s linear;
+            animation: logo-spin infinite 20s linear;
+  }
+}
+
+@-webkit-keyframes logo-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes logo-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
 }
 /*# sourceMappingURL=index.css.map */
