@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/portfolio-react2.0/static/css/main.8f0c0705.chunk.css",
+    "main.js": "/portfolio-react2.0/static/js/main.87549048.chunk.js",
+    "main.js.map": "/portfolio-react2.0/static/js/main.87549048.chunk.js.map",
+    "runtime-main.js": "/portfolio-react2.0/static/js/runtime-main.a2cd90fe.js",
+    "runtime-main.js.map": "/portfolio-react2.0/static/js/runtime-main.a2cd90fe.js.map",
+    "static/css/2.fb346933.chunk.css": "/portfolio-react2.0/static/css/2.fb346933.chunk.css",
+    "static/js/2.3ac914f8.chunk.js": "/portfolio-react2.0/static/js/2.3ac914f8.chunk.js",
+    "static/js/2.3ac914f8.chunk.js.map": "/portfolio-react2.0/static/js/2.3ac914f8.chunk.js.map",
+    "index.html": "/portfolio-react2.0/index.html",
+    "precache-manifest.68c172b60a45d4e919abc7afb4c1421a.js": "/portfolio-react2.0/precache-manifest.68c172b60a45d4e919abc7afb4c1421a.js",
+    "service-worker.js": "/portfolio-react2.0/service-worker.js",
+    "static/css/2.fb346933.chunk.css.map": "/portfolio-react2.0/static/css/2.fb346933.chunk.css.map",
+    "static/css/main.8f0c0705.chunk.css.map": "/portfolio-react2.0/static/css/main.8f0c0705.chunk.css.map",
+    "static/js/2.3ac914f8.chunk.js.LICENSE.txt": "/portfolio-react2.0/static/js/2.3ac914f8.chunk.js.LICENSE.txt",
+    "static/media/IRISscreenshot.png": "/portfolio-react2.0/static/media/IRISscreenshot.d1c91f33.png",
+    "static/media/Screenshot (11).png": "/portfolio-react2.0/static/media/Screenshot (11).6fad5bab.png",
+    "static/media/acess-boost.png": "/portfolio-react2.0/static/media/acess-boost.c50b97a0.png",
+    "static/media/index.css": "/portfolio-react2.0/static/media/background-joshua.fc7b6398.jpg",
+    "static/media/git-it-done.png": "/portfolio-react2.0/static/media/git-it-done.cffa4673.png",
+    "static/media/logo-2.svg": "/portfolio-react2.0/static/media/logo-2.88d2abd9.svg",
+    "static/media/profile-image.jpg": "/portfolio-react2.0/static/media/profile-image.ffa92d08.jpg",
+    "static/media/scatterbrain.png": "/portfolio-react2.0/static/media/scatterbrain.882d5bcb.png",
+    "static/media/work-day-sched..png": "/portfolio-react2.0/static/media/work-day-sched..a7f6d084.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2cd90fe.js",
+    "static/css/2.fb346933.chunk.css",
+    "static/js/2.3ac914f8.chunk.js",
+    "static/css/main.8f0c0705.chunk.css",
+    "static/js/main.87549048.chunk.js"
+  ]
+}
