@@ -1,7 +1,8 @@
 import React from 'react';
 // import About from './components/About'
-// import Projects from './components/Projects';
-import Contact from './components/Contact';
+import Projects from './components/Projects';
+// import Contact from './components/Contact';
+import Footer from './components/Footer';
 
 import './styles/index.css';
 
@@ -13,8 +14,9 @@ function App() {
       </header>
       <div>
          {/* <About></About> */}
-         {/* <Projects></Projects> */}
-         <Contact></Contact>
+         <Projects></Projects>
+         {/* <Contact></Contact> */}
+         <Footer></Footer>
       </div>
      
     </div>

@@ -981,4 +981,15 @@ th {
   width: 20%;
   border-radius: 50%;
 }
+
+.footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: end;
+      align-content: flex-end;
+}
 /*# sourceMappingURL=index.css.map */
